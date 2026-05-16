@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://github.com/StarDust-Git-Cod](https://the-consensus-sepia.vercel.app/)e"><b>Launch The Consensus · Full Experience *</b></a>
+  <a href="https://github.com/StarDust-Git-Cod](https://the-consensus-sepia.vercel.app/)e"><b>Launch The Consensus · Full Experience *</b></a>
 </p>
 
 > [!IMPORTANT]
